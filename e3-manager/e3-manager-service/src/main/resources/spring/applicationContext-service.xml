@@ -22,4 +22,5 @@
 		ref="itemServiceImpl" timeout="300000"/>
 	<dubbo:service interface="cn.e3mall.service.ItemCatService"
 		ref="itemCatServiceImpl" timeout="300000"/>
+
 </beans>

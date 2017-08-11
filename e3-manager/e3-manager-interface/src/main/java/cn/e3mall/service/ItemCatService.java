@@ -2,7 +2,7 @@ package cn.e3mall.service;
 
 import java.util.List;
 
-import cn.e3mall.pojo.TreeNode;
+import cn.e3mall.common.pojo.TreeNode;
 
 public interface ItemCatService {
 
